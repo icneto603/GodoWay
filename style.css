@@ -1,0 +1,47 @@
+html, body {
+  margin: 0;
+  padding: 0; 
+  background-color: #FFD600;
+}
+canvas {
+  display: block;
+}
+
+#cabecalho{
+
+  display: flex;
+  justify-content: center;
+
+}
+
+#cabecalho img{
+
+    padding-top: 10px;  
+}
+#rodape{
+  display: flex;
+  justify-content: center;
+
+}
+
+#rodape img {
+
+  padding-top: 10px;
+
+}
+
+#cjogo{
+  display: flex;
+  justify-content: center;
+  background-image: url("./imgSite/fundo-home.png");
+  background-repeat: no-repeat;
+  background-position-x: center;
+
+}
+
+#cjogo span{
+
+  padding-top: 50px;
+
+}
+
